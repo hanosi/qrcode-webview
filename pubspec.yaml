@@ -1,5 +1,5 @@
-name: qrcode
-description: A new Flutter application.
+name: undanganflutterproject
+description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -28,8 +28,8 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
-  webview_flutter: 0.3.20+2
-  barcode_scan: ^3.0.1
+  http: ^0.13.3
+  qr_code_scanner: ^0.5.1
 
 dev_dependencies:
   flutter_test:
